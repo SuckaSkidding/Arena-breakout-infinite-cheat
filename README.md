@@ -4,4 +4,4 @@ i tested and it's ud, it's using nvidia overlay by hijacking it, it's not the be
 it has most likely Some ESP features, you may need to update offsets 
 And it's not using ImGui btw
 
-i can do service and projects for money dm me on discord : sucka2992
+i can do service and projects for money dm me on Discord : sucka2992
